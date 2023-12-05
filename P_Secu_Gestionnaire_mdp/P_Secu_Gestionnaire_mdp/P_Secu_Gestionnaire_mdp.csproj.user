@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Informatique\Projets\Projets persos\Gestionnaire de mdp\P_Secu_Gestionnaire_mdp\P_Secu_Gestionnaire_mdp\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Accueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ajout_de_données.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Editing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModifData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SuppData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
